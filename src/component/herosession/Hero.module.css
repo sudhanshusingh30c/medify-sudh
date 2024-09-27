@@ -1,0 +1,26 @@
+.herocontainer{
+    width: 100%;
+    position: relative;
+    /* background-color: var(--); */
+    background-color:lightblue;
+}
+.bigcontainer{
+    display: flex;
+    width: 100%;
+    height: 490px;
+}
+.doctimg{
+    display: flex;
+    justify-content: center;
+    height: 59vh;
+    width: 50%;
+}
+.smallwrapper{
+    position: absolute;
+    top: 44vh;
+    left: 15%;
+    background-color: white;
+    border: 1px solid black;
+    width: 70%;
+    
+}

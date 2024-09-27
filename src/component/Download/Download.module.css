@@ -1,0 +1,12 @@
+.down_cont{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    background-color: var(--secondary-bg-color);
+    background-color: rgb(215, 238, 246);
+    height: 328px;
+}
+.down_cont img{
+    width: 100%;
+    object-fit: contain;
+}

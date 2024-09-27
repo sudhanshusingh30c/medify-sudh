@@ -1,0 +1,29 @@
+.Searchboxes{
+display: flex;
+align-items: center;
+padding: 50px 0px;
+}
+
+
+.buttondiv{
+width: 10%;
+}
+.lookinghead{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    margin: 10px 0px;
+}
+.buttscard{
+    display: flex;
+    justify-content: space-evenly;
+}
+.innercard{
+    border: 1px solid black;
+    height: 153px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 20px;
+}

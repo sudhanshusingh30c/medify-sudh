@@ -1,0 +1,8 @@
+.Topheading{
+  text-align: center;
+  color: white;
+  background-color: var(--primary-bg-color);
+  padding: 9px 0px;
+  font-weight: 400;
+}
+

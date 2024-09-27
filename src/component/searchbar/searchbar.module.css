@@ -1,0 +1,8 @@
+.searches{
+    display: flex;
+    justify-content: space-evenly;
+    width: 90%;
+}
+.searches select{
+    cursor: pointer;
+}

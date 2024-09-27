@@ -1,0 +1,17 @@
+.smallcardwrapper{
+    background-color: white;
+    border-radius: 8px;
+    width: 20%;
+    height: 180px;
+}
+.cardwrapper{
+    width: 59%;
+    /* border: 1px solid; */
+}
+.container{
+    margin:  10px 5px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+    border: 1px solid ;
+}

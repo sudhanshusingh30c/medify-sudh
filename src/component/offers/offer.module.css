@@ -1,0 +1,10 @@
+.offercontainer{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 35vh;
+    padding: 15px;
+}
+.offercontainer img{
+    width: 26%;
+    object-fit: contain;
+}

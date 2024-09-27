@@ -1,0 +1,14 @@
+.bluebutt{
+    background-color: var(--primary-bg-color);
+    color: white;
+    border-radius: 8px;
+    border: 0ch;
+    padding: 10px;
+    cursor: pointer;
+}
+.whitebutt{
+    background-color: white;
+    color: var(--primary-bg-color);
+    border: 1px solid var(--primary-bg-color);
+    border-radius: 5px;
+}

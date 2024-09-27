@@ -1,0 +1,14 @@
+.handles{
+    display: flex;
+    justify-content: center;
+    background-color: #1B3C74;
+    position: absolute;
+    width:100%;
+    top: 288px;
+   
+    
+}
+.handles img {
+    width: 77%;
+    object-fit: contain;
+}
